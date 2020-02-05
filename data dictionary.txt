@@ -1,0 +1,5 @@
+#data dictionary
+define all variables in each table here
+
+
+
